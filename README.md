@@ -8,3 +8,4 @@ My Observations:
 
 3. I find no significant patterns or correlation between latitude and cloudiness or wind speed.
 
+![Equatorsign](/WeatherPy/images/equatorsign.png)
